@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-6fa5201651.b2bhotels.cn/sitemap.xml
